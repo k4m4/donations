@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	<b>Donations</b>
+	<b style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:30px";>Donations</b>
 </h3>
 
 <p align="center">

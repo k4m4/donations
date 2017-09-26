@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-	<b>🙌 Use <a href="https://yourdonation.rocks">Donations</a> to help support <b>your</b> own projects! 🙌</b>
+	<b>🙌 Use <a href="https://yourdonation.rocks">Donations</a> to help support <b>your</b> projects! 🙌</b>
 </p>
 <br>
 

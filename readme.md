@@ -1,7 +1,7 @@
 <h1 align="center">
-	<b style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif";>Donations</b>
-	<br>
 	<img width="250" src="https://yourdonation.rocks/images/heart3.png" alt="Donations"><p>
+	<br>
+	<b>Donations</b>
 </h1>
 
 <br>

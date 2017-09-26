@@ -1,10 +1,9 @@
 <h1 align="center">
 	<img width="250" src="https://yourdonation.rocks/images/heart3.png" alt="Donations"><p>
+	<br>
+	<b style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif";>Donations</b>
 </h1>
 
-<h3 align="center">
-	<b style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif";>Donations</b>
-</h3>
 
 <p align="center">
 	<b>🙌 Use <a href="https://yourdonation.rocks">Donations</a> to help support <b>your</b> own projects! 🙌</b>

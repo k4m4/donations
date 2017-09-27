@@ -1,0 +1,22 @@
+{
+  "name": "donations",
+  "version": "1.0.0",
+  "description": "donations make easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackout314/donations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackout314/donations/issues"
+  },
+  "homepage": "https://github.com/blackout314/donations#readme",
+  "devDependencies": {
+    "prompt": "^1.0.0"
+  }
+}

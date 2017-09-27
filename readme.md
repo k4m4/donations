@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-	<a href="https://yourdonation.rocks"><img width="185" src="images/badge.png" alt="Badge"></a>
+	<a href="https://yourdonation.rocks"><img width="185" src="images/badge.svg" alt="Badge"></a>
 	<br><br>
 	<b>🙌 Use <a href="https://yourdonation.rocks">donations</a> to help support <b>your</b> projects! 🙌</b>
 </p>
@@ -22,29 +22,30 @@
 
 `npm install` and after `node index.js`, this generate **output.html**
 
-# `Donate` badge
+# `Donations` badge
+
 
 ### Image URL
 
 ```
-https://yourdonation.rocks/images/badge.png
+https://yourdonation.rocks/images/badge.svg
 ```
 
 ### Markdown
 
 ```
-[![Donations Badge](https://yourdonation.rocks/images/badge.png)]({YOUR-DONATIONS-PAGE-URL})
+[![Donations Badge](https://yourdonation.rocks/images/badge.svg)]({YOUR-DONATIONS-PAGE-URL})
 ```
 
 ### ReStructuredText
 
 ```
-.. image:: https://yourdonation.rocks/images/badge.png
+.. image:: https://yourdonation.rocks/images/badge.svg
     :target: {YOUR-DONATIONS-PAGE-URL}
 ```
 
 ### HTML
 
 ```
-<a href="{YOUR-DONATIONS-PAGE-URL}"><img width="185" src="https://yourdonation.rocks/images/badge.png" alt="Donations Badge"></a>
+<a href="{YOUR-DONATIONS-PAGE-URL}"><img width="185" src="https://yourdonation.rocks/images/badge.svg" alt="Donations Badge"></a>
 ```

@@ -18,12 +18,23 @@
 
 <br>
 
-# Generate HTML
 
-`npm install` and after `node index.js`, this generate **output.html**
+# Installation & Configuration
+
+To create your own **donations template** - with your own information - run the following on your server:
+
+```
+~ ❯❯❯ git clone https://github.com/k4m4/donations
+~ ❯❯❯ cd donations/
+~/donations ❯❯❯ npm install
+~/donations ❯❯❯ node index.js
+```
+
+- This will generate an `index.html` file with your information.
+- You can then edit your server's config to serve `donations` as a static page (e.g. `nikolaskama.me/donate`).
+
 
 # `Donations` badge
-
 
 ### Image URL
 
@@ -49,3 +60,5 @@ https://yourdonation.rocks/images/badge.svg
 ```
 <a href="{YOUR-DONATIONS-PAGE-URL}"><img width="185" src="https://yourdonation.rocks/images/badge.svg" alt="Donations Badge"></a>
 ```
+
+[![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://yourdonation.rocks/)

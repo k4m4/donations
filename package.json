@@ -1,0 +1,22 @@
+{
+  "name": "donations",
+  "version": "1.0.0",
+  "description": "generate a donations template for your projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4m4/donations.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k4m4/donations/issues"
+  },
+  "homepage": "https://github.com/k4m4/donations#readme",
+  "devDependencies": {
+    "prompt": "^1.0.0"
+  }
+}

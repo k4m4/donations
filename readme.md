@@ -18,7 +18,12 @@
 
 <br>
 
+# Generate HTML
+
+`npm install` and after `node index.js`, this generate **output.html**
+
 # `Donations` badge
+
 
 ### Image URL
 
